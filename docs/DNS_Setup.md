@@ -40,7 +40,7 @@ Replacement Examples:
 | `lb-{countrycode}.ecovacs.net`          | Load-balancer that is checked by the app/robot |
 | `lb-{countrycode}.ecouser.net`          | Load-balancer that is checked by the app/robot |
 | `lbus.ecouser.net`                      | Load-balancer that is checked by the app/robot |
-| `lb{countrycode}.ecouser.net`           | Load-balancer that is checked by the app/robot |
+| `lb-{countrycode}.ecouser.net`           | Load-balancer that is checked by the app/robot |
 | `eco-{countrycode}-api.ecovacs.com`     | Used for Login                                 |
 | `gl-{countrycode}-api.ecovacs.com`      | Used by EcoVacs Home app                       |
 | `gl-{countrycode}-openapi.ecovacs.com`  | Used by EcoVacs Home app                       |
